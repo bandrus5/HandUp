@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">HandUp</string>
+    <string name="test1">Test 1</string>
+    <string name="test2">Test 2</string>
+    <string name="test3">Test 3</string>
+    <string name="service_label">Service:</string>
+    <string name="food_label">Food:</string>
+    <string name="supplies_label">Supplies:</string>
+    <string name="clothes_label">Clothing:</string>
+    <string name="place_label">Showing results for Portland, OR</string>
+    <string name="change_location_label">Change Location</string>
+    <string name="action_settings">Settings</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
